@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dell\Downloads\box2d-main\box2d-main\build\CMakeFiles\366be514bc4afff37cd79691eb28cdf6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{53B507EB-1D7B-367F-95F2-BE96370D9A68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
